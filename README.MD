@@ -1,4 +1,4 @@
-# express-react-template
+# Create a stunning native web app.
 
 ## Usecase examples:
  - [wakeywakey.me](https://github.com/PatrykSitko/me.wakeywakey)
